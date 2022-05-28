@@ -1,16 +1,12 @@
-- 👋 Hi, I’m @CB-Straub,  but you can call me Chris
+- Hi, I’m @CB-Straub,  but you can call me Brian. 
 
-- My main passions are Music, Yoga, Web Development and chickens.... (thats right, chickens)
-    I play guitar and other instruments, 
-    Produce and Sound Engineer music using ProTools and Abelton DAW's,
-    Teach yoga to veterans like myself with Comeback Yoga (https://www.comebackyoga.org/),
-    Help raise four egg layer chickens,  Mango, Noodle, Toast and Pepper. a.k.a "the ladies"
+-Learning to do this code thing.  Mainly javascript and react. 
 
-- 🌱 I’m currently enrolled in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/)
-
-- 💞️ I’m looking to collaborate on ...Being a better Human and creating something meaningful everyday
-
-- 📫 How to reach me ...   email: cbstraub@protonmail.com      instagram : @vanomoose
+-  I’m currently enrolled in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/)
+    
+-    linkedin.com/in/brian-straub
+-    cbstraub@protonmail.com      
+-    instagram : @vanomoose  
 
 <!---
 CB-Straub/CB-Straub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
