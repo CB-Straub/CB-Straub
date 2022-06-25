@@ -1,7 +1,5 @@
 - Hi, I’m @CB-Straub,  but you can call me Brian. 
 
--Learning to do this code thing.  Mainly javascript and react. 
-
 -  I’m currently enrolled in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/)
     
 -    linkedin.com/in/brian-straub
