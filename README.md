@@ -2,7 +2,7 @@
 
 -  I’m currently enrolled in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/)
     
--    linkedin.com/in/brian-straub
+-    linkedin.com/in/cbstraub
 -    cbstraub@protonmail.com      
 -    instagram : @vanomoose  
 
