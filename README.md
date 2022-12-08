@@ -1,6 +1,6 @@
 - Hi, I’m @CB-Straub,  but you can call me Brian. 
 
--  I’m currently a Teacheing Assistant in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/)
+-  I’m currently a Teaching Assistant in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/)
     
 -    www.linkedin.com/in/cbstraub
 -    cbstraub@protonmail.com      
