@@ -1,3 +1,7 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
+
 - Hi, I’m @CB-Straub,  but you can call me Brian. 
 
 -  I’m currently a Teaching Assistant in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/)
