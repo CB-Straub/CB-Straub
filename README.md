@@ -1,7 +1,7 @@
 # Hi, I’m @CB-Straub,  but you can call me Brian. 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=cb-straub&show_icons=true&theme=transparent" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=cb-straub&show_icons=true&theme=transparent" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cb-straub&layout=compact"/>
-
+ -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
