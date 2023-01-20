@@ -15,12 +15,21 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
--  I’m currently a Teaching Assistant in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/)
+-  I’m currently a Teaching Assistant in the FSJS Full Stack Web Developer bootcamp at V School (https://vschool.io/) 
+      
+  We use these daily:   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+        ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+        ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+        ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
+        ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
     
--    www.linkedin.com/in/cbstraub
--    cbstraub@protonmail.com      
--    instagram : @vanomoose  
+-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) = www.linkedin.com/in/cbstraub
+-    ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) = cbstraub@protonmail.com      
+    
+-   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  = @vanomoose (personal account...mostly music, yoga, and veterans mental health) 
 
+
+I got the cool markdown badges from https://github.com/Ileriayo/markdown-badges.
 <!---
 CB-Straub/CB-Straub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
